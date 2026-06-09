@@ -1,6 +1,6 @@
 # MoSe2/WSe2 Moiré Superlattice Simulation Suite
 
-Python codes for simulating the electronic properties of MoSe_2/WSe_2 moiré superlattices under external fields, including Rashba spin-orbit coupling (SOC) and Zeeman effects.
+Python codes for simulating the electronic properties of MoSe2/WSe2 moiré superlattices under external fields, including Rashba spin-orbit coupling (SOC) and Zeeman effects.
 
 ## Features
 
